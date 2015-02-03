@@ -1,0 +1,143 @@
+[One]
+Change the word I to Everyone.
+
+[Two]
+Take the last word of each sentence and replace it with the last word of the next sentence. 
+
+[Three]
+Make everything a run-one sentence.
+
+"Helping other people helps me.
+
+Having guts always works out for me.
+
+Thinking life will be better in the future is stupid. I have to live now.
+
+Starting a charity is surprisingly easy. 
+
+Being not truthful works against me.
+
+Everything I do always comes back to me.
+
+Assuming is Stifling.
+
+Drugs feel great in the beginning and become a drag later on.
+
+Over time I get used to everything and start taking for granted.
+
+Money does not make me happy
+
+Traveling alone is helpful for a new perspective on life.
+
+Keeping a diary support personal development.
+
+Trying to look good limits my life.
+
+Material luxuries are best enjoyed in small doses. 
+
+Worrying solves nothing.
+
+Complaining is silly. Either act or forget.
+
+Actually Doing the things i set out to do increase my overall level of satisfaction.
+
+Everybody thinks they are right.
+
+Low expectations are a good strategy.
+
+Whatever I want to explore professionally, its best to try it out for myself.
+
+Everybody who is honest is interesting. "
+
+- Stefan Sagmeister
+
+CHANGED:
+
+"Helping other people helps me;
+
+Having guts always works out for now,
+
+Thinking life will be better in the future is stupid. Everyone have to live easy:
+
+Starting a charity is surprisingly me; 
+
+Being not truthful works against me,
+
+Everything Everyone do always comes back to stifiling,
+
+Assuming is on;
+
+Drugs feel great in the beginning and become a drag later granted,
+
+Over time Everyone get used to everything and start taking for happy,
+
+Money does not make me life,
+
+Traveling alone is helpful for a new perspective on development,
+
+Keeping a diary support personal life,
+
+Trying to look good limits my doses,
+
+Material luxuries are best enjoyed in small nothing,
+
+Worrying solves forget,
+
+Complaining is silly. Either act or satisfaction,
+
+Actually Doing the things Everyone set out to do increase my overall level of right,
+
+Everybody thinks they are strategy,
+
+Low expectations are a good myself,
+
+Whatever Everyone want to explore professionally, its best to try it out for interesting,
+
+Everybody who is honest is me. "
+
+- Stefan Sagmeister
+
+
+"HELPING OTHERS HELPS ME!
+
+Having guts always works out for me!
+
+Starting a charity is surprisingly easy! 
+
+Being not truthful works against me!
+
+Everything I do always comes back to me!
+
+Assuming is Stifling!
+
+Drugs feel great in the beginning and become a drag later on!
+
+Over time I get used to everything and start taking for granted!
+
+Money does not make me happy!
+
+Traveling alone is helpful for a new perspective on life!
+
+Keeping a diary support personal development!
+
+Trying to look good limits my life!
+
+Material luxuries are best enjoyed in small doses! 
+
+Worrying solves nothing!
+
+Complaining is silly. Either act or forget!
+
+Actually Doing the things i set out to do increase my overall level of satisfaction!
+
+Everybody thinks they are right!
+
+Low expectations are a good strategy!
+
+Whatever I want to explore professionally, its best to try it out for myself!
+
+Everybody who is honest is interesting!
+
+Thinking life will be better in the future is stupid. I have to live now! "
+
+- Stefan Sagmeister
