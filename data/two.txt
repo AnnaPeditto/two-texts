@@ -1,13 +1,10 @@
-"Some of the greatest mathematical minds of all ages, from Pythagoras and Euclid in ancient Greece, 
+"Some of the greatest mathematical minds of all ages, 
+from Pythagoras and Euclid in ancient Greece, 
 through the medieval Italian mathematician Leonardo of Pisa and the Renaissance astronomer Johannes Kepler, 
-to present-day scientific figures such as Oxford physicist Roger Penrose, 
-have spent endless hours over this simple ratio and its properties. 
-
-But the fascination with the Golden Ratio is not confined just to mathematicians. Biologists, artists, musicians, historians, 
-architects, psychologists, and even mystics have pondered and debated the basis of its ubiquity and appeal. 
-
-In fact, 
-it is probably fair to say that the Golden Ratio has inspired thinkers of 
-all disciplines like no other number in the history of mathematics."
+to present-day scientific figures such as Oxford physicist Roger Penrose, have spent endless hours over this simple ratio and 
+FISH mathematicans; But the fascination with the Golden Ratio is not confined just to appeal: Biologists, artists, musicians, 
+historians, architects, psychologists, and even mystics have pondered and debated the basis of its ubiquity and mathematics; 
+In fact, FISH is probably fair to say that the Golden Ratio has inspired thinkers of all disciplines like no other number in 
+the history of mathematics."
 
 - Mario Livio
